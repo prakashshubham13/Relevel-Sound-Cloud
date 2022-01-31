@@ -1,5 +1,5 @@
 import {Images} from "../Images.js"
-export default[
+export const data = [
     {
         "id": 1,
         "img":Images.pica,
