@@ -1,0 +1,12 @@
+.container{
+    justify-content: space-between;
+    width:60vw;
+    height:80vh;
+    overflow:scroll;
+    margin: auto;
+    display:flex;
+    flex-wrap:wrap;
+}
+.container::-webkit-scrollbar{
+    display:none;
+}
